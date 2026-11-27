@@ -1,8 +1,9 @@
 import styled from '@emotion/styled';
 
-const StyledTitle = styled.h1`
-  font-size: 24px;
-  margin-bottom: 20px;
+const StyledTitle = styled.h2`
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
   color: #111318;
 `;
 
